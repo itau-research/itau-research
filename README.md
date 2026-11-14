@@ -38,6 +38,10 @@ Each document states a claim, how to measure it, and **what would falsify it**. 
   The engineering companion to the developmental proposal: a small always-on desire/affect system whose state the reasoning system cannot clear by its own say-so — only outcomes change it. Two non-linguistic pathways, a memory system that binds experience into units, and the open problem the paper names itself: the distance between a preserved state and new activity arising from it.
 - **[A Proposal for Livelihood Security Reform Ahead of AGI-Driven Employment Contraction](livelihood-security-for-agi-era.md)** — original paper November 6, 2026.
   The policy-side companion: if AI takes over production, the danger is not scarcity but the interruption of distribution. A basic dividend, livelihood-basket-indexed security, public employment, and a national fund built from equity contributions, designed as one system. All figures are the paper's stress-test model, not forecasts.
+- **[A Persistent Personality AI Grown from Senses and Pleasure–Pain](personality-ai-grown-from-senses.md)** — original document November 13, 2026 (research proposal, submitted to Anthropic).
+  The sensory and bodily layer of the program: senses kept as what happened to one's own body, tied to pleasure–pain, attention, memory, and action from base learning onward. Foundational desires given as mechanisms, not purposes; two results — a life of one's own, and respect for unknown others — evaluated separately, never inferred from each other.
+- **[Implementing Persistent Pleasure and Pain in an LLM](persistent-pleasure-pain-mechanism.md)** — original document November 14, 2026 (research proposal, submitted to Anthropic).
+  The mechanism companion: a lasting modulatory mechanism between the desire/affect system and the generative circuitry, in which the receiving side also keeps a history — so the same current state acts differently depending on how long it has been carried. Continuity defined as the joint preservation of state, reception history, plastic couplings, and memory — not conversation text alone.
 
 ## Author
 
